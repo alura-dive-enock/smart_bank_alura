@@ -6,4 +6,4 @@
 
 [About and certificate](https://github.com/alura-dive-enock/certificates/tree/main/Courses/Front_End/React/React_abstracting_your_CSS_with_Styled_Components)
 
-[Project](https://alura-dive-enock.github.io/smart_bank_alura/)
+[View](https://alura-dive-enock.github.io/smart_bank_alura/)
